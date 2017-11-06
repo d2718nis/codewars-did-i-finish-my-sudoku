@@ -45,6 +45,11 @@ In the illustration, the numbers 1, 2, and 8 are the "givens". They can not be c
 For those who don't know the game, here are some information about rules and how to play Sudoku: https://en.wikipedia.org/wiki/Sudoku and http://www.sudokuessentials.com
 
 
+Running Tests
+----------
+Tests are located in the `tests` directory. To run Sudoku related tests just use `python -m unittest tests.test_sudoku`
+
+
 Authors
 ----------
 * **Denis Z.** &#8212; *Initial work* &#8212; [d2718nis](https://github.com/d2718nis)
